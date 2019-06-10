@@ -13,7 +13,7 @@ class Owner
   end
   
   def self.count
-    @@all.count.uniq?
+    @@all.count.uniq
   end
   
   def self.reset 
