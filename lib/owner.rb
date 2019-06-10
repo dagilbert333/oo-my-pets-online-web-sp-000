@@ -38,7 +38,7 @@ class Owner
   end
   
   def walk_dogs
-    @pets[:dogs]
+    @pets[:dogs].each do 
   end
   
 end
