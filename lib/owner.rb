@@ -54,4 +54,8 @@ class Owner
       fish.mood = 'happy'
     end
   end
+  
+  def sell_pets
+    
+  end
 end
